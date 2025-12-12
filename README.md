@@ -92,3 +92,10 @@ b) It represents a professional approach to real-time communication, combining t
 c) By focusing on usability, clarity, and modern aesthetics, this chat room application stands out as a polished and practical solution.
 
 d) Whether used for learning, showcasing skills, or as a foundation for advanced projects, it demonstrates how real-time web applications can be both functional and visually appealing.
+
+OUTPUT
+
+<img width="1914" height="1019" alt="Image" src="https://github.com/user-attachments/assets/e790562e-72dd-4d29-b8d1-8b0ed5c4f334" />
+
+
+<img width="1908" height="1019" alt="Image" src="https://github.com/user-attachments/assets/6b1f23c7-00e1-489e-8944-5774b50ca01c" />
