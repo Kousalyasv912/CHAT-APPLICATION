@@ -1,0 +1,119 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #121212; /* overall dark background */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e0e0e0;
+}
+
+/* Chat container */
+/* Chat container */
+.chat-wrapper {
+  width: 600px;       /* wider box */
+  height: 700px;      /* taller box */
+  background: #0d1b2a; /* dark navy blue */
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+
+/* Header */
+header {
+  background: #1b263b;
+  padding: 16px;
+  text-align: center;
+  border-bottom: 1px solid #2c3e50;
+}
+
+header h1 {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/* Messages area */
+main#messages {
+  flex: 1;
+  padding: 12px;
+  overflow-y: auto;
+  background: #0a192f;
+  display: flex;
+  flex-direction: column;
+}
+
+/* My messages (right side, blue) */
+.my-message {
+  background-color: #0077b6;
+  color: white;
+  border-radius: 12px 12px 0 12px;
+  padding: 10px;
+  margin: 5px;
+  max-width: 70%;
+  align-self: flex-end;
+}
+
+/* Other messages (left side, gray) */
+.other-message {
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+  border-radius: 12px 12px 12px 0;
+  padding: 10px;
+  margin: 5px;
+  max-width: 70%;
+  align-self: flex-start;
+}
+
+/* Timestamp */
+.timestamp {
+  font-size: 11px;
+  color: #999;
+  margin-top: 2px;
+  display: block;
+  text-align: right;
+}
+
+/* Form styling */
+form {
+  display: flex;
+  gap: 8px;
+  padding: 12px;
+  background: #1b263b;
+  border-top: 1px solid #2c3e50;
+}
+
+form input {
+  padding: 8px;
+  border: 1px solid #2c3e50;
+  border-radius: 6px;
+  font-size: 14px;
+  background-color: #0d1b2a;
+  color: #f0f0f0;
+}
+
+#username {
+  width: 100px;
+}
+
+#input {
+  flex: 1;
+}
+
+form button {
+  padding: 8px 16px;
+  background: #0077b6;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+form button:hover {
+  background: #023e8a;
+}
