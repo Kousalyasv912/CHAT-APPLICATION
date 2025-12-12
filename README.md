@@ -95,7 +95,3 @@ d) Whether used for learning, showcasing skills, or as a foundation for advanced
 
 OUTPUT
 
-<img width="1914" height="1019" alt="Image" src="https://github.com/user-attachments/assets/e790562e-72dd-4d29-b8d1-8b0ed5c4f334" />
-
-
-<img width="1908" height="1019" alt="Image" src="https://github.com/user-attachments/assets/6b1f23c7-00e1-489e-8944-5774b50ca01c" />
