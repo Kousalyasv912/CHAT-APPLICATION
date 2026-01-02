@@ -15,7 +15,7 @@ A real-time chat app built with Node.js, Express, and Socket.IO — featuring a 
 
 Project Description
 
-Overview :
+# Overview :
 
 a) This project is a real-time chat room application built using Node.js, Express, and Socket.IO, with a professionally designed dark blue user interface.
 
@@ -25,7 +25,7 @@ c) Unlike basic chat demos, this project emphasizes professional UI/UX design, s
 
 d) It is designed to be lightweight, responsive, and easy to deploy, making it suitable for both learning purposes and real-world use cases.
 
-Features :
+# Features :
 
 a) Real-time communication with instant message delivery using WebSockets.
 
@@ -41,7 +41,7 @@ f) Responsive design for desktop and mobile.
 
 g) Simple setup and beginner-friendly configuration.
 
-Technical Stack :
+# Technical Stack :
 
 a) Backend: Node.js with Express.
 
@@ -51,7 +51,7 @@ c) Frontend: HTML, CSS, and JavaScript.
 
 d) Styling: Custom CSS with professional dark blue theme.
 
-Design Philosophy:
+# Design Philosophy:
 
 a) Focus on professionalism and usability.
 
@@ -63,7 +63,7 @@ d) Rounded corners, subtle shadows, and consistent spacing for polish.
 
 e) Blue accent button stands out without overwhelming the design.
 
-Use Cases :
+# Use Cases :
 
 a) Learning project for students and developers.
 
@@ -73,7 +73,7 @@ c) Portfolio showcase to demonstrate technical and design skills.
 
 d) Client presentations as part of larger web solutions.
 
-Future Enhancements :
+# Future Enhancements :
 
 a) Add user authentication for secure login.
 
@@ -83,7 +83,7 @@ c) Integrate emoji support and file sharing.
 
 d) Deploy to cloud platforms like Render, Railway, or Heroku.
 
-Conclusion :
+# Conclusion :
 
 a) This project is more than just a simple chat demo.
 
@@ -93,7 +93,7 @@ c) By focusing on usability, clarity, and modern aesthetics, this chat room appl
 
 d) Whether used for learning, showcasing skills, or as a foundation for advanced projects, it demonstrates how real-time web applications can be both functional and visually appealing.
 
-OUTPUT
+# OUTPUT
 
 <img width="1886" height="1017" alt="Image" src="https://github.com/user-attachments/assets/59c84305-b93f-49ce-9efd-ae504e405ce5" />
 
