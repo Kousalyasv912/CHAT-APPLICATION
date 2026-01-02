@@ -11,9 +11,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-A real-time chat app built with Node.js, Express, and Socket.IO — featuring a professional dark blue theme, responsive design, and instant communication.
-
-Project Description
+# Project Description
 
 # Overview :
 
